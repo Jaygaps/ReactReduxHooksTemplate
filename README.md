@@ -14,3 +14,8 @@ This is a boiler plate for starters, more features will be added.
 * Redux Devtools
 * ESLint configuration
 * JS, CSS Code minification
+
+## Running the project
+> yarn install
+
+> yarn start
