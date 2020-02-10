@@ -16,6 +16,10 @@ This is a boiler plate for starters, more features will be added.
 * JS, CSS Code minification
 
 ## Running the project
-> yarn install
+```
+yarn install
+```
 
-> yarn start
+```
+yarn start
+```
